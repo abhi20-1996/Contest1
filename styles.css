@@ -1,0 +1,22 @@
+nav{
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+button{
+    background-color: black;
+    color: white;
+}
+img{
+    width: 729px;
+    height: 911px; 
+}
+p,h1{
+    font-family: 'Inter';
+font-style: normal;
+}
+h1{
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+}
